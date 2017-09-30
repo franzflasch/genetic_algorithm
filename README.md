@@ -1,6 +1,4 @@
 # genetic_algorithm
-Simple genetic algorithm library in C
-
 This is a simple genetic algorithm written in plain C.
 
 It is inspired from https://lethain.com/genetic-algorithms-cool-name-damn-simple/
